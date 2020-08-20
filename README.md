@@ -23,6 +23,4 @@ npm run lint
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/)
 # resturantMenu
-
-# resturantMenu
-# Here is [Demo](https://resturant-507a1.web.app/)
+## Here is [Demo](https://resturant-507a1.web.app/)
